@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha --recursive --timeout 100000",
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "Berkan Can Diler",
   "license": "ISC",
